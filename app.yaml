@@ -1,0 +1,4 @@
+runtime: nodejs18 # Use the latest Node.js version available
+env_variables:
+  OPENAI_API_KEY: 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 # Replace with your actual API key
+
